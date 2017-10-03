@@ -1,28 +1,3 @@
-/* 
-	* Program Name: Lab 4 - Server
-	* 
-	* Student Name: Phong Nguyen
-	* Semester: Spring 2016
-	* Class-Section: COSC 20203
-	* Instructor: Dr. Rinewalt
-	* 
-	* Program Overview:
-	* 	This is a server program connecting clients and allowing them
-	* to exchange messages.
-	* 
-	* Input:
-	* 	None.
-	* 
-	* Output:
-	* 	Messages from clients.
-	* 
-	* Program Limitations:
-	* 	It has no GUI.
-	* 
-	* Significant Program Variables:
-	* 	ServerSocket, Socket, Thread, Vector, BufferedReader, PrintWriter.
-	*/
-
 import java.net.*;
 import java.util.*;
 import java.io.*;
